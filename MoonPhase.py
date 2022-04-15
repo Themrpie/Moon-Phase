@@ -10,7 +10,7 @@ import datetime
 ## ------------------------------------------------
 ##  DEFAULT VARIABLES (do not delete them)
 ##
-file_name_base = "C:/Users/pietr/TradersToolbox/TradersToolbox/Data/GCRaw.txt"
+file_name_base = "C:/Users/yourname/folder/subfolder/Data/GCRaw.txt"
 file_name_market2 = None
 file_name_market3 = None
 file_name_Vix = None
